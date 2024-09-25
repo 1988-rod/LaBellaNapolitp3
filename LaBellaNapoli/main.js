@@ -1,5 +1,3 @@
-// script.js
-
 // Precios de los platos y salsas
 const precios = {
     platos: {
