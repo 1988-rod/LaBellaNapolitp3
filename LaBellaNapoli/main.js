@@ -65,5 +65,5 @@ document.getElementById('form').addEventListener('submit', function (e) {
     cargarCarrito();
 });
 
-// Cargar el carrito al iniciar la página
+
 cargarCarrito();
